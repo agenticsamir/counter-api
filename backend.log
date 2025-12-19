@@ -1,0 +1,36 @@
+INFO:     Started server process [86079]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     192.168.1.2:37012 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:49250 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:49250 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:49250 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:49250 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:49250 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:49250 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:47054 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:47054 - "POST /increment HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51687 - "GET /health HTTP/1.1" 200 OK
+INFO:     192.168.1.2:37490 - "GET /health HTTP/1.1" 200 OK
+INFO:     192.168.1.2:37490 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     192.168.1.2:51208 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:51208 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:51208 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:51208 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:51208 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:51208 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:51208 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:51208 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:51208 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:51208 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:51208 - "POST /increment HTTP/1.1" 200 OK
+INFO:     192.168.1.2:51208 - "POST /increment HTTP/1.1" 200 OK
+INFO:     2401:4900:88cc:465b:89aa:44b:4e7b:fecc:0 - "GET / HTTP/1.1" 200 OK
+INFO:     2401:4900:88cc:465b:89aa:44b:4e7b:fecc:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     2401:4900:88cc:465b:89aa:44b:4e7b:fecc:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     2409:40f2:347:2a41:1d4c:cb7a:ea7d:4dcb:0 - "GET / HTTP/1.1" 200 OK
+INFO:     2409:40f2:347:2a41:1d4c:cb7a:ea7d:4dcb:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:56233 - "GET /health HTTP/1.1" 200 OK
+INFO:     2401:4900:88cc:465b:89aa:44b:4e7b:fecc:0 - "GET / HTTP/1.1" 200 OK
+INFO:     2401:4900:88cc:465b:89aa:44b:4e7b:fecc:0 - "GET /favicon.ico HTTP/1.1" 404 Not Found
